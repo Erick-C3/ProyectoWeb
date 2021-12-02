@@ -1,0 +1,19 @@
+{
+  "name": "proyectoweb",
+  "version": "1.0.0",
+  "description": "primer proyecto con git y node.js",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erick-C3/ProyectoWeb.git"
+  },
+  "author": "Erick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Erick-C3/ProyectoWeb/issues"
+  },
+  "homepage": "https://github.com/Erick-C3/ProyectoWeb#readme"
+}
