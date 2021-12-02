@@ -4,6 +4,7 @@
   "description": "primer proyecto con git y node.js",
   "main": "index.html",
   "scripts": {
+    "dev": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Erick-C3/ProyectoWeb/issues"
   },
-  "homepage": "https://github.com/Erick-C3/ProyectoWeb#readme"
+  "homepage": "https://github.com/Erick-C3/ProyectoWeb#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
 }
