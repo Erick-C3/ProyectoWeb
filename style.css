@@ -1,0 +1,17 @@
+body{
+    background: pink;/*defino color de fondo para el body*/
+}
+
+#carouselExampleControls{
+    max-width: 500px;/*defino tamaño maximo para este componente*/
+    margin: 0 auto;/*centro el componente carousel*/
+}
+
+#carouselExampleControls2{
+    max-width: 500px;/*defino tamaño maximo para este componente*/
+    margin: 0 auto;/*centro el componente carousel*/
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: black;
+}
